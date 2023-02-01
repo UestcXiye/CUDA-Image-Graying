@@ -1,0 +1,21 @@
+﻿生成启动时间为 2022/12/19 21:26:13。
+     1>项目“c:\opencv\opencv-test\opencv-test\opencv-test.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt "并行程序.cpp"
+         并行程序.cpp
+     1>c:\opencv\opencv-test\opencv-test\并行程序.cpp(40): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+     1>c:\opencv\opencv-test\opencv-test\并行程序.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\opencv\opencv-test\opencv-test\并行程序.cpp(49): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\opencv\opencv-test\opencv-test\并行程序.cpp(53): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+     1>c:\opencv\opencv-test\opencv-test\并行程序.cpp(65): error C3861: “atomicAdd”: 找不到标识符
+     1>c:\opencv\opencv-test\opencv-test\并行程序.cpp(105): error C2059: 语法错误:“<”
+     1>c:\opencv\opencv-test\opencv-test\并行程序.cpp(112): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+     1>c:\opencv\opencv-test\opencv-test\并行程序.cpp(120): error C2059: 语法错误:“<”
+     1>c:\opencv\opencv-test\opencv-test\并行程序.cpp(142): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+     1>c:\opencv\opencv-test\opencv-test\并行程序.cpp(159): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>c:\opencv\opencv-test\opencv-test\并行程序.cpp(210): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>已完成生成项目“c:\opencv\opencv-test\opencv-test\opencv-test.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.70

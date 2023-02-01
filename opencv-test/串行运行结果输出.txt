@@ -1,0 +1,599 @@
+图片数量：100
+第 1/100 张图片
+./Picture\pic1.jpg
+cpu  exec time： 0.1412580000 s
+inputfilename.length:18
+./GrayPicture/pic1_to_gray.png
+
+第 2/100 张图片
+./Picture\pic10.jpg
+cpu  exec time： 0.0054800000 s
+inputfilename.length:19
+./GrayPicture/pic10_to_gray.png
+
+第 3/100 张图片
+./Picture\pic100.jpg
+cpu  exec time： 0.0527340000 s
+inputfilename.length:20
+./GrayPicture/pic100_to_gray.png
+
+第 4/100 张图片
+./Picture\pic11.jpg
+cpu  exec time： 0.0062770000 s
+inputfilename.length:19
+./GrayPicture/pic11_to_gray.png
+
+第 5/100 张图片
+./Picture\pic12.jpg
+cpu  exec time： 0.0067270000 s
+inputfilename.length:19
+./GrayPicture/pic12_to_gray.png
+
+第 6/100 张图片
+./Picture\pic13.jpg
+cpu  exec time： 0.0076820000 s
+inputfilename.length:19
+./GrayPicture/pic13_to_gray.png
+
+第 7/100 张图片
+./Picture\pic14.jpg
+cpu  exec time： 0.0066720000 s
+inputfilename.length:19
+./GrayPicture/pic14_to_gray.png
+
+第 8/100 张图片
+./Picture\pic15.jpg
+cpu  exec time： 0.0084500000 s
+inputfilename.length:19
+./GrayPicture/pic15_to_gray.png
+
+第 9/100 张图片
+./Picture\pic16.jpg
+cpu  exec time： 0.0075240000 s
+inputfilename.length:19
+./GrayPicture/pic16_to_gray.png
+
+第 10/100 张图片
+./Picture\pic17.jpg
+cpu  exec time： 0.0077710000 s
+inputfilename.length:19
+./GrayPicture/pic17_to_gray.png
+
+第 11/100 张图片
+./Picture\pic18.jpg
+cpu  exec time： 0.0082480000 s
+inputfilename.length:19
+./GrayPicture/pic18_to_gray.png
+
+第 12/100 张图片
+./Picture\pic19.jpg
+cpu  exec time： 0.0078450000 s
+inputfilename.length:19
+./GrayPicture/pic19_to_gray.png
+
+第 13/100 张图片
+./Picture\pic2.jpg
+cpu  exec time： 0.4334580000 s
+inputfilename.length:18
+./GrayPicture/pic2_to_gray.png
+
+第 14/100 张图片
+./Picture\pic20.jpg
+cpu  exec time： 0.0181040000 s
+inputfilename.length:19
+./GrayPicture/pic20_to_gray.png
+
+第 15/100 张图片
+./Picture\pic21.jpg
+cpu  exec time： 0.0168190000 s
+inputfilename.length:19
+./GrayPicture/pic21_to_gray.png
+
+第 16/100 张图片
+./Picture\pic22.jpg
+cpu  exec time： 0.0181580000 s
+inputfilename.length:19
+./GrayPicture/pic22_to_gray.png
+
+第 17/100 张图片
+./Picture\pic23.jpg
+cpu  exec time： 0.0179670000 s
+inputfilename.length:19
+./GrayPicture/pic23_to_gray.png
+
+第 18/100 张图片
+./Picture\pic24.jpg
+cpu  exec time： 0.0167990000 s
+inputfilename.length:19
+./GrayPicture/pic24_to_gray.png
+
+第 19/100 张图片
+./Picture\pic25.jpg
+cpu  exec time： 0.0184930000 s
+inputfilename.length:19
+./GrayPicture/pic25_to_gray.png
+
+第 20/100 张图片
+./Picture\pic26.jpg
+cpu  exec time： 0.0188120000 s
+inputfilename.length:19
+./GrayPicture/pic26_to_gray.png
+
+第 21/100 张图片
+./Picture\pic27.jpg
+cpu  exec time： 0.0181710000 s
+inputfilename.length:19
+./GrayPicture/pic27_to_gray.png
+
+第 22/100 张图片
+./Picture\pic28.jpg
+cpu  exec time： 0.0185790000 s
+inputfilename.length:19
+./GrayPicture/pic28_to_gray.png
+
+第 23/100 张图片
+./Picture\pic29.jpg
+cpu  exec time： 0.0185560000 s
+inputfilename.length:19
+./GrayPicture/pic29_to_gray.png
+
+第 24/100 张图片
+./Picture\pic3.jpg
+cpu  exec time： 0.1009530000 s
+inputfilename.length:18
+./GrayPicture/pic3_to_gray.png
+
+第 25/100 张图片
+./Picture\pic30.jpg
+cpu  exec time： 0.0159280000 s
+inputfilename.length:19
+./GrayPicture/pic30_to_gray.png
+
+第 26/100 张图片
+./Picture\pic31.jpg
+cpu  exec time： 0.0142150000 s
+inputfilename.length:19
+./GrayPicture/pic31_to_gray.png
+
+第 27/100 张图片
+./Picture\pic32.jpg
+cpu  exec time： 0.0163800000 s
+inputfilename.length:19
+./GrayPicture/pic32_to_gray.png
+
+第 28/100 张图片
+./Picture\pic33.jpg
+cpu  exec time： 0.0152150000 s
+inputfilename.length:19
+./GrayPicture/pic33_to_gray.png
+
+第 29/100 张图片
+./Picture\pic34.jpg
+cpu  exec time： 0.0155790000 s
+inputfilename.length:19
+./GrayPicture/pic34_to_gray.png
+
+第 30/100 张图片
+./Picture\pic35.jpg
+cpu  exec time： 0.0157680000 s
+inputfilename.length:19
+./GrayPicture/pic35_to_gray.png
+
+第 31/100 张图片
+./Picture\pic36.jpg
+cpu  exec time： 0.0157510000 s
+inputfilename.length:19
+./GrayPicture/pic36_to_gray.png
+
+第 32/100 张图片
+./Picture\pic37.jpg
+cpu  exec time： 0.0157680000 s
+inputfilename.length:19
+./GrayPicture/pic37_to_gray.png
+
+第 33/100 张图片
+./Picture\pic38.jpg
+cpu  exec time： 0.0176550000 s
+inputfilename.length:19
+./GrayPicture/pic38_to_gray.png
+
+第 34/100 张图片
+./Picture\pic39.jpg
+cpu  exec time： 0.0141800000 s
+inputfilename.length:19
+./GrayPicture/pic39_to_gray.png
+
+第 35/100 张图片
+./Picture\pic4.jpg
+cpu  exec time： 0.0942200000 s
+inputfilename.length:18
+./GrayPicture/pic4_to_gray.png
+
+第 36/100 张图片
+./Picture\pic40.jpg
+cpu  exec time： 0.0153110000 s
+inputfilename.length:19
+./GrayPicture/pic40_to_gray.png
+
+第 37/100 张图片
+./Picture\pic41.jpg
+cpu  exec time： 0.0157770000 s
+inputfilename.length:19
+./GrayPicture/pic41_to_gray.png
+
+第 38/100 张图片
+./Picture\pic42.jpg
+cpu  exec time： 0.0171150000 s
+inputfilename.length:19
+./GrayPicture/pic42_to_gray.png
+
+第 39/100 张图片
+./Picture\pic43.jpg
+cpu  exec time： 0.0147230000 s
+inputfilename.length:19
+./GrayPicture/pic43_to_gray.png
+
+第 40/100 张图片
+./Picture\pic44.jpg
+cpu  exec time： 0.0153820000 s
+inputfilename.length:19
+./GrayPicture/pic44_to_gray.png
+
+第 41/100 张图片
+./Picture\pic45.jpg
+cpu  exec time： 0.0153490000 s
+inputfilename.length:19
+./GrayPicture/pic45_to_gray.png
+
+第 42/100 张图片
+./Picture\pic46.jpg
+cpu  exec time： 0.0163020000 s
+inputfilename.length:19
+./GrayPicture/pic46_to_gray.png
+
+第 43/100 张图片
+./Picture\pic47.jpg
+cpu  exec time： 0.0163650000 s
+inputfilename.length:19
+./GrayPicture/pic47_to_gray.png
+
+第 44/100 张图片
+./Picture\pic48.jpg
+cpu  exec time： 0.0164280000 s
+inputfilename.length:19
+./GrayPicture/pic48_to_gray.png
+
+第 45/100 张图片
+./Picture\pic49.jpg
+cpu  exec time： 0.0154830000 s
+inputfilename.length:19
+./GrayPicture/pic49_to_gray.png
+
+第 46/100 张图片
+./Picture\pic5.jpg
+cpu  exec time： 0.0123820000 s
+inputfilename.length:18
+./GrayPicture/pic5_to_gray.png
+
+第 47/100 张图片
+./Picture\pic50.jpg
+cpu  exec time： 0.0157040000 s
+inputfilename.length:19
+./GrayPicture/pic50_to_gray.png
+
+第 48/100 张图片
+./Picture\pic51.jpg
+cpu  exec time： 0.0155760000 s
+inputfilename.length:19
+./GrayPicture/pic51_to_gray.png
+
+第 49/100 张图片
+./Picture\pic52.jpg
+cpu  exec time： 0.0143540000 s
+inputfilename.length:19
+./GrayPicture/pic52_to_gray.png
+
+第 50/100 张图片
+./Picture\pic53.jpg
+cpu  exec time： 0.0158070000 s
+inputfilename.length:19
+./GrayPicture/pic53_to_gray.png
+
+第 51/100 张图片
+./Picture\pic54.jpg
+cpu  exec time： 0.0152090000 s
+inputfilename.length:19
+./GrayPicture/pic54_to_gray.png
+
+第 52/100 张图片
+./Picture\pic55.jpg
+cpu  exec time： 0.0306920000 s
+inputfilename.length:19
+./GrayPicture/pic55_to_gray.png
+
+第 53/100 张图片
+./Picture\pic56.jpg
+cpu  exec time： 0.0320180000 s
+inputfilename.length:19
+./GrayPicture/pic56_to_gray.png
+
+第 54/100 张图片
+./Picture\pic57.jpg
+cpu  exec time： 0.0333850000 s
+inputfilename.length:19
+./GrayPicture/pic57_to_gray.png
+
+第 55/100 张图片
+./Picture\pic58.jpg
+cpu  exec time： 0.0312860000 s
+inputfilename.length:19
+./GrayPicture/pic58_to_gray.png
+
+第 56/100 张图片
+./Picture\pic59.jpg
+cpu  exec time： 0.0318780000 s
+inputfilename.length:19
+./GrayPicture/pic59_to_gray.png
+
+第 57/100 张图片
+./Picture\pic6.jpg
+cpu  exec time： 0.0123310000 s
+inputfilename.length:18
+./GrayPicture/pic6_to_gray.png
+
+第 58/100 张图片
+./Picture\pic60.jpg
+cpu  exec time： 0.0336180000 s
+inputfilename.length:19
+./GrayPicture/pic60_to_gray.png
+
+第 59/100 张图片
+./Picture\pic61.jpg
+cpu  exec time： 0.0307610000 s
+inputfilename.length:19
+./GrayPicture/pic61_to_gray.png
+
+第 60/100 张图片
+./Picture\pic62.jpg
+cpu  exec time： 0.0313320000 s
+inputfilename.length:19
+./GrayPicture/pic62_to_gray.png
+
+第 61/100 张图片
+./Picture\pic63.jpg
+cpu  exec time： 0.0320290000 s
+inputfilename.length:19
+./GrayPicture/pic63_to_gray.png
+
+第 62/100 张图片
+./Picture\pic64.jpg
+cpu  exec time： 0.0354220000 s
+inputfilename.length:19
+./GrayPicture/pic64_to_gray.png
+
+第 63/100 张图片
+./Picture\pic65.jpg
+cpu  exec time： 0.0335010000 s
+inputfilename.length:19
+./GrayPicture/pic65_to_gray.png
+
+第 64/100 张图片
+./Picture\pic66.jpg
+cpu  exec time： 0.0335050000 s
+inputfilename.length:19
+./GrayPicture/pic66_to_gray.png
+
+第 65/100 张图片
+./Picture\pic67.jpg
+cpu  exec time： 0.0302020000 s
+inputfilename.length:19
+./GrayPicture/pic67_to_gray.png
+
+第 66/100 张图片
+./Picture\pic68.jpg
+cpu  exec time： 0.0320010000 s
+inputfilename.length:19
+./GrayPicture/pic68_to_gray.png
+
+第 67/100 张图片
+./Picture\pic69.jpg
+cpu  exec time： 0.0315000000 s
+inputfilename.length:19
+./GrayPicture/pic69_to_gray.png
+
+第 68/100 张图片
+./Picture\pic7.jpg
+cpu  exec time： 0.0118990000 s
+inputfilename.length:18
+./GrayPicture/pic7_to_gray.png
+
+第 69/100 张图片
+./Picture\pic70.jpg
+cpu  exec time： 0.0334650000 s
+inputfilename.length:19
+./GrayPicture/pic70_to_gray.png
+
+第 70/100 张图片
+./Picture\pic71.jpg
+cpu  exec time： 0.0322450000 s
+inputfilename.length:19
+./GrayPicture/pic71_to_gray.png
+
+第 71/100 张图片
+./Picture\pic72.jpg
+cpu  exec time： 0.0302030000 s
+inputfilename.length:19
+./GrayPicture/pic72_to_gray.png
+
+第 72/100 张图片
+./Picture\pic73.jpg
+cpu  exec time： 0.0309900000 s
+inputfilename.length:19
+./GrayPicture/pic73_to_gray.png
+
+第 73/100 张图片
+./Picture\pic74.jpg
+cpu  exec time： 0.0337900000 s
+inputfilename.length:19
+./GrayPicture/pic74_to_gray.png
+
+第 74/100 张图片
+./Picture\pic75.jpg
+cpu  exec time： 0.0302730000 s
+inputfilename.length:19
+./GrayPicture/pic75_to_gray.png
+
+第 75/100 张图片
+./Picture\pic76.jpg
+cpu  exec time： 0.1848980000 s
+inputfilename.length:19
+./GrayPicture/pic76_to_gray.png
+
+第 76/100 张图片
+./Picture\pic77.jpg
+cpu  exec time： 0.1742070000 s
+inputfilename.length:19
+./GrayPicture/pic77_to_gray.png
+
+第 77/100 张图片
+./Picture\pic78.jpg
+cpu  exec time： 0.0784460000 s
+inputfilename.length:19
+./GrayPicture/pic78_to_gray.png
+
+第 78/100 张图片
+./Picture\pic79.jpg
+cpu  exec time： 0.0977870000 s
+inputfilename.length:19
+./GrayPicture/pic79_to_gray.png
+
+第 79/100 张图片
+./Picture\pic8.jpg
+cpu  exec time： 0.0184690000 s
+inputfilename.length:18
+./GrayPicture/pic8_to_gray.png
+
+第 80/100 张图片
+./Picture\pic80.jpg
+cpu  exec time： 0.1560940000 s
+inputfilename.length:19
+./GrayPicture/pic80_to_gray.png
+
+第 81/100 张图片
+./Picture\pic81.jpg
+cpu  exec time： 0.2762240000 s
+inputfilename.length:19
+./GrayPicture/pic81_to_gray.png
+
+第 82/100 张图片
+./Picture\pic82.jpg
+cpu  exec time： 0.0975910000 s
+inputfilename.length:19
+./GrayPicture/pic82_to_gray.png
+
+第 83/100 张图片
+./Picture\pic83.jpg
+cpu  exec time： 0.0565390000 s
+inputfilename.length:19
+./GrayPicture/pic83_to_gray.png
+
+第 84/100 张图片
+./Picture\pic84.jpg
+cpu  exec time： 0.1620260000 s
+inputfilename.length:19
+./GrayPicture/pic84_to_gray.png
+
+第 85/100 张图片
+./Picture\pic85.jpg
+cpu  exec time： 0.1914330000 s
+inputfilename.length:19
+./GrayPicture/pic85_to_gray.png
+
+第 86/100 张图片
+./Picture\pic86.jpg
+cpu  exec time： 0.2341660000 s
+inputfilename.length:19
+./GrayPicture/pic86_to_gray.png
+
+第 87/100 张图片
+./Picture\pic87.jpg
+cpu  exec time： 0.1671720000 s
+inputfilename.length:19
+./GrayPicture/pic87_to_gray.png
+
+第 88/100 张图片
+./Picture\pic88.jpg
+cpu  exec time： 0.0031030000 s
+inputfilename.length:19
+./GrayPicture/pic88_to_gray.png
+
+第 89/100 张图片
+./Picture\pic89.jpg
+cpu  exec time： 0.0040160000 s
+inputfilename.length:19
+./GrayPicture/pic89_to_gray.png
+
+第 90/100 张图片
+./Picture\pic9.jpg
+cpu  exec time： 0.0161160000 s
+inputfilename.length:18
+./GrayPicture/pic9_to_gray.png
+
+第 91/100 张图片
+./Picture\pic90.jpg
+cpu  exec time： 0.0043890000 s
+inputfilename.length:19
+./GrayPicture/pic90_to_gray.png
+
+第 92/100 张图片
+./Picture\pic91.jpg
+cpu  exec time： 0.0467690000 s
+inputfilename.length:19
+./GrayPicture/pic91_to_gray.png
+
+第 93/100 张图片
+./Picture\pic92.jpg
+cpu  exec time： 0.0455850000 s
+inputfilename.length:19
+./GrayPicture/pic92_to_gray.png
+
+第 94/100 张图片
+./Picture\pic93.jpg
+cpu  exec time： 0.0472290000 s
+inputfilename.length:19
+./GrayPicture/pic93_to_gray.png
+
+第 95/100 张图片
+./Picture\pic94.jpg
+cpu  exec time： 0.0508420000 s
+inputfilename.length:19
+./GrayPicture/pic94_to_gray.png
+
+第 96/100 张图片
+./Picture\pic95.jpg
+cpu  exec time： 0.0485070000 s
+inputfilename.length:19
+./GrayPicture/pic95_to_gray.png
+
+第 97/100 张图片
+./Picture\pic96.jpg
+cpu  exec time： 0.0491580000 s
+inputfilename.length:19
+./GrayPicture/pic96_to_gray.png
+
+第 98/100 张图片
+./Picture\pic97.jpg
+cpu  exec time： 0.0491800000 s
+inputfilename.length:19
+./GrayPicture/pic97_to_gray.png
+
+第 99/100 张图片
+./Picture\pic98.jpg
+cpu  exec time： 0.0464500000 s
+inputfilename.length:19
+./GrayPicture/pic98_to_gray.png
+
+第 100/100 张图片
+./Picture\pic99.jpg
+cpu  exec time： 0.0447270000 s
+inputfilename.length:19
